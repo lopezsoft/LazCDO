@@ -1,0 +1,35 @@
+object FrmSplash: TFrmSplash
+  Left = 589
+  Height = 64
+  Top = 390
+  Width = 156
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = 'FrmSplash'
+  ClientHeight = 64
+  ClientWidth = 156
+  Color = clSkyBlue
+  DefaultMonitor = dmMainForm
+  FormStyle = fsSplash
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '1.6.2.0'
+  object lbMsg: TLabel
+    Left = 0
+    Height = 64
+    Top = 0
+    Width = 156
+    Align = alClient
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'lbMsg'
+    Font.Color = 12544800
+    Font.Height = -13
+    Font.Style = [fsBold, fsItalic]
+    Layout = tlCenter
+    ParentColor = False
+    ParentFont = False
+    WordWrap = True
+  end
+end

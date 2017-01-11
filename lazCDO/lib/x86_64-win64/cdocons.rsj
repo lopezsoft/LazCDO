@@ -1,0 +1,10 @@
+{"version":1,"strings":[
+{"hash":256897550,"name":"cdocons.cdo_msg_load_file","sourcebytes":[65,98,114,105,114,32,97,114,99,104,105,118,111,46,46,46],"value":"Abrir archivo..."},
+{"hash":192461150,"name":"cdocons.cdo_msg_sending","sourcebytes":[69,110,118,105,97,110,100,111,32,69,109,97,105,108,46,46,46],"value":"Enviando Email..."},
+{"hash":31559505,"name":"cdocons.cdo_msg_name","sourcebytes":[76,97,122,67,68,79,32,76,105,98,114,101,114,105,97],"value":"LazCDO Libreria"},
+{"hash":201074866,"name":"cdocons.cdo_msg_error_1","sourcebytes":[72,97,32,111,99,117,114,114,105,100,111,32,117,110,32,101,114,114,111,114],"value":"Ha ocurrido un error"},
+{"hash":80976848,"name":"cdocons.cdo_msg_error_2","sourcebytes":[77,101,110,115,97,103,101,32,100,101,32,101,114,114,111,114,58,32],"value":"Mensage de error: "},
+{"hash":161027407,"name":"cdocons.cdo_msg_error_3","sourcebytes":[32,97,108,32,116,114,97,116,97,114,32,100,101,32,101,110,118,105,97,114,32,101,108,32,99,111,114,114,101,111],"value":" al tratar de enviar el correo"},
+{"hash":99878862,"name":"cdocons.cdo_msg_send_ok","sourcebytes":[69,108,32,69,109,97,105,108,32,115,101,32,104,97,32,101,110,118,105,97,100,111,32,99,111,114,114,101,99,116,97,109,101,110,116,101,46],"value":"El Email se ha enviado correctamente."},
+{"hash":30851150,"name":"cdocons.cdo_not_assign_server","sourcebytes":[78,111,32,101,115,116,195,161,32,99,111,110,102,105,103,117,114,97,100,111,32,101,108,32,115,101,114,118,105,100,111,114,46],"value":"No est\u00C3\u00A1 configurado el servidor."}
+]}
